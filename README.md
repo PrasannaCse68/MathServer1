@@ -38,7 +38,7 @@ maver.html
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>Surface Area of Right Cylinder</title>
-<title>GAYATHRI M(212223220024)</title>
+<title>PRASANNA G.R(212221040073)</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body
@@ -137,10 +137,13 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (9).png>)
+![image](https://github.com/PrasannaCse68/MathServer1/assets/127935950/b8b74c19-54be-4ebb-bae5-8bd5e4b0698e)
+
 
 ## HOMEPAGE:
-![alt text](<ex5 web.png>)
+![Screenshot 2024-04-08 223148](https://github.com/PrasannaCse68/MathServer1/assets/127935950/d71c6065-22e6-4e5c-9b21-2b00383379fd)
+
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
